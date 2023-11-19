@@ -106,5 +106,5 @@
         <span id="nometamask" class="err" style="display: none">Please install Metamask first...</span>
         <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://buytoken.net/dbsale?id=0xA048eDf8438a9f93a454cC4C977B4b8A139ce9C1&net=56">Metamask</a>)</span></span> <span id="myAddr"></span>
         <span id="referred" style="display:none"><br>Referrer: <span id="referrer"></span></span></div>
-    </div>
+  
    
